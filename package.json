@@ -1,0 +1,11 @@
+{
+  "name": "@supersocial/toolbar-plus",
+  "version": "2.9.1",
+  "description": "ToolbarPlus",
+  "author": "ForeverHD",
+  "license": "MIT",
+  "repository": "https://github.com/supersocial/Framewerk",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
